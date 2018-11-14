@@ -1,0 +1,14 @@
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Debug\netcoreapp2.1\linux-x64\libhostpolicy.so
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Debug\netcoreapp2.1\linux-x64\libhostfxr.so
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Debug\netcoreapp2.1\linux-x64\Quartz.netLesson8Core.netLesson8Core
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Debug\netcoreapp2.1\linux-x64\QuartzSchedulerConfiguration.json
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Debug\netcoreapp2.1\linux-x64\Quartz.netLesson8Core.deps.json
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Debug\netcoreapp2.1\linux-x64\Quartz.netLesson8Core.runtimeconfig.json
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Debug\netcoreapp2.1\linux-x64\Quartz.netLesson8Core.runtimeconfig.dev.json
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Debug\netcoreapp2.1\linux-x64\Quartz.netLesson8Core.dll
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Debug\netcoreapp2.1\linux-x64\Quartz.netLesson8Core.pdb
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\obj\Debug\netcoreapp2.1\linux-x64\Quartz.netLesson8Core.csproj.CoreCompileInputs.cache
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\obj\Debug\netcoreapp2.1\linux-x64\Quartz.netLesson8Core.AssemblyInfoInputs.cache
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\obj\Debug\netcoreapp2.1\linux-x64\Quartz.netLesson8Core.AssemblyInfo.cs
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\obj\Debug\netcoreapp2.1\linux-x64\Quartz.netLesson8Core.dll
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\obj\Debug\netcoreapp2.1\linux-x64\Quartz.netLesson8Core.pdb

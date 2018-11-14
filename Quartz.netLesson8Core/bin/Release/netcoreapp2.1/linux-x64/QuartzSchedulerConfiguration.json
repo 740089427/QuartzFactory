@@ -1,0 +1,15 @@
+﻿{
+  "ThreadCount": 30,
+  "Jobs": [
+    {
+      "JobName": "Test1",
+      "GroupName": "Common",
+      "CronExpression": "*/3 * * * * ?"
+    },
+    {
+      "JobName": "Test2",
+      "GroupName": "Common",
+      "CronExpression": "*/3 * * * * ?"
+    }
+  ]
+}

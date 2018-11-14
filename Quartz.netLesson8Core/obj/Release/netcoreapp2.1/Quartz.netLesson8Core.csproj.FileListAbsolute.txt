@@ -1,0 +1,12 @@
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Release\netcoreapp2.1\QuartzSchedulerConfiguration.json
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Release\netcoreapp2.1\Quartz.netLesson8Core.deps.json
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Release\netcoreapp2.1\Quartz.netLesson8Core.runtimeconfig.json
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Release\netcoreapp2.1\Quartz.netLesson8Core.runtimeconfig.dev.json
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Release\netcoreapp2.1\Quartz.netLesson8Core.dll
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\bin\Release\netcoreapp2.1\Quartz.netLesson8Core.pdb
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\obj\Release\netcoreapp2.1\Quartz.netLesson8Core.csprojAssemblyReference.cache
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\obj\Release\netcoreapp2.1\Quartz.netLesson8Core.csproj.CoreCompileInputs.cache
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\obj\Release\netcoreapp2.1\Quartz.netLesson8Core.AssemblyInfoInputs.cache
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\obj\Release\netcoreapp2.1\Quartz.netLesson8Core.AssemblyInfo.cs
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\obj\Release\netcoreapp2.1\Quartz.netLesson8Core.dll
+E:\teemo\Quartz.netLesson\Quartz.netLesson\Quartz.netLesson8Core\obj\Release\netcoreapp2.1\Quartz.netLesson8Core.pdb
